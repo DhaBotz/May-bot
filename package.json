@@ -1,0 +1,16 @@
+{
+  "name": "wa-bot-noprefix",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot No Prefix (Baileys)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.6.0"
+  }
+}
